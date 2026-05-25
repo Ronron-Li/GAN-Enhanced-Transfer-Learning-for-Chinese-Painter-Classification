@@ -1,5 +1,4 @@
-# GAN-Enhanced-Transfer-Learning-for-Chinese-Painter-Classification
-DS301 Project_NYU
+
 # GAN-Enhanced Transfer Learning for Chinese Painter Classification
 
 Fine-grained classification of Chinese paintings by painter, with **StyleGAN2-ADA-generated samples used as a data-augmentation strategy** to address the small-dataset problem inherent to traditional-art classification.
